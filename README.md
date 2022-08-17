@@ -18,9 +18,10 @@ post_max_size 128M
 upload_max_filesize 20M
 
 
-## Configurações do PHP
+## Configurações do DB
 
 Criar a base de dados "teste_uello" e fazer a importação das tabelas através do arquivo "teste_uello.sql" que esta na raiz do projeto.
+todas as informações de conexão estão no arquivo database.php em "application/config"
 
 ## Especificações
 
