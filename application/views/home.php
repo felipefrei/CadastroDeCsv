@@ -17,12 +17,7 @@
 		</div>
 		<input id="submit" type="submit" value="Importar" class="btn btn-success" />
 	</form>
-
 	<br><br>
-	<?php
-	echo CI_VERSION;
-	?>
-
 	<script type="text/javascript">
 		$(document).ready(function() { 
 		     $('#submit').click(function() { 
